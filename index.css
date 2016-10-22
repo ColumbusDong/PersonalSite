@@ -1,0 +1,102 @@
+#body {
+  background-image: url(backg.jpg);
+  color: #333333;
+  font-color: #333333;
+}
+
+#main {
+  width: 90%;
+  background-color: #e6e2af;
+  height: 90%;
+  margin: auto;
+  padding: 5px;
+  box-shadow: 0px 0px 10px #000000;
+  -moz-box-shadow: 0px 0px 10px #000000;
+  -webkit-box-shadow: 0px 0px 10px #000000;
+  border-radius: 1px;
+  -moz-border-radius: 1px;
+  -webkit-border-radius:1px;
+}
+
+p {
+  padding-left: 10px;
+  font-family: Helvetica, Arial;
+  font-size: 16px;
+}
+
+#header {
+  display: inline;
+  color: #333333;
+  height: 5%;
+}
+
+#hdTable {
+  width: 100%;
+}
+.hdTableColumn {
+  width: 20%;
+  margin: 0px;
+  padding: 0px;
+  height: auto;
+  text-align: center;
+}
+
+#nameTitle {
+  text-align: center;
+  font-size: 50px;
+  text-transform: captilize;
+  font-weight: bold;
+  font-spacing: -2px;
+  padding: 10px;
+  margin-top:1%;
+  margin-bottom: 1%
+}
+
+#hdTableName {
+  width: 60%;
+}
+
+.address {
+  font-size: 13px;
+  padding: 10px;
+  margin-top:1%;
+  margin-bottom: 1%;
+  text-align: left;
+}
+
+#tabblock {
+  width: 100%;
+  height: 40px;
+}
+
+.headHR {
+  width: 95%;
+  height: 6px;
+  border: none;
+  background-color: #333333;
+  color: #333333;
+}
+
+#AboutMeBtn {
+  float: left;
+  border-width: 5px;
+  font-size: 30px;
+  width: 33%;
+  text-align: center;
+  font-weight: bold;
+}
+
+#AchievementsBtn {
+  float: right;
+  font-size: 30px;
+  width: 33%;
+  text-align:center;
+  font-weight:bold;
+}
+
+#ProgrammingBtn {
+  margin: auto;
+  font-size: 30px;
+  text-align:center;
+  font-weight:bold;
+}
